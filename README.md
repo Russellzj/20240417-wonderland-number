@@ -1,4 +1,4 @@
-# Wonderland Number Problem Summary
+# Wonderland Number
 
 ## Overview
 
